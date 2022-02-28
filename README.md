@@ -25,5 +25,4 @@ TinkerCAD를 통한 실습으로 진행. txt 파일의 내용을 복사하여 Ti
 https://www.youtube.com/watch?v=lUJ-iiD0MCY&list=PLJlrtcxIfzvdcrSbWiK_tXooUuVXri2nD
 
 키트 구입으로 실습을 하고 싶으시다면 아래 사이트를 참고해주세요.
-
 https://www.eduino.kr/product/detail.html?product_no=141&cate_no=98&display_group=1
