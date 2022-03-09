@@ -7,7 +7,8 @@ Heesung Kim(President of MECHA 2022-1)|mech9917@sogang.ac.kr
 Documentation Date : 22. February, 2022
 ## Contents
 ### 01. Arduino 101
-  - Contents
+  - Blink LED
+  - Application using for loop iteration
 ### 02. DC Motor and Pulse Width Modulation Control
   - Contents
 ### 03. Servo Motor and Ultrasonic Sensor
