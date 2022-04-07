@@ -9,6 +9,8 @@ Documentation Date : 22. February, 2022
 ### 01. Arduino 101
   - Blink LED
   - Application using for loop iteration
+### Exercise #1
+  - Example Problems using LEDs & Buttons
 ### 02. DC Motor and Pulse Width Modulation Control
   - Serial Communication
   - Speed & Direction Control
