@@ -17,6 +17,8 @@ Documentation Date : 22. February, 2022
 ### 03. Servo Motor and Ultrasonic Sensor
   - Servo Sweep
   - HC-SR04 Sensor Usage
+### Exercise #2
+  - Example Problems using DC motor, servo motor & Serial
 ### 04. Bluetooth Module HC-06
 
 ## Caution
